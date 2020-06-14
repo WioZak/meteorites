@@ -1,2 +1,6 @@
 # meteorites
-bla bla bla
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
